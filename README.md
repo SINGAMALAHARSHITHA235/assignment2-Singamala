@@ -23,6 +23,7 @@ Everyone could vote based on any criteria. In general the ratings were consisten
 
 
 | Country |  Reason  | Data |
+|---------|----------|------|
 | France  | The country’s beauty make it a popular destination| 1 week |
 | Spain   | A cultural patchwork that continues to shape the modern nation’s|10-13 days|
 | Japan   | To see the update Version | 15 days|
