@@ -25,3 +25,7 @@ https://github.com/SINGAMALAHARSHITHA235/assignment2-Singamala/blob/main/AboutMe
 | Spain   | A cultural patchwork that continues to shape the modern nation’s | 10-13 days |
 | Japan   | To see the update Version | 15 days |
 | Greece  | The beauty of thw white nature | 1 week |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Pithy Quotes 
+Gentlemen, you can't fight in here. This is the war room. (*Dr. Strangelove*)
+Ned, I would love to stand here and talk with you—but I’m not going to.(*Phil Connors (Bill Murray)*)
