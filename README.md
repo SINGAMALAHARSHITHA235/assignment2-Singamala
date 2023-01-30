@@ -27,10 +27,12 @@ https://github.com/SINGAMALAHARSHITHA235/assignment2-Singamala/blob/main/AboutMe
 | Greece  | The beauty of thw white nature | 1 week |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Pithy Quotes 
-Gentlemen, you can't fight in here. This is the war room. (*Dr. Strangelove*)<br>
-Ned, I would love to stand here and talk with you—but I’m not going to.(*Phil Connors (Bill Murray)*)
+>Gentlemen, you can't fight in here. This is the war room. (*Dr. Strangelove*) <br>
+>Ned, I would love to stand here and talk with you—but I’m not going to.(*Phil Connors (Bill Murray)*)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Code Fencing
+>SVG PATTERNS https://stackoverflow.com/questions/40218109/i-need-help-in-developing-a-circular-pattern
+
 <svg width="100%" height="100%">
   
   <!-- Create mask that we'll use to define a slight gradient -->
