@@ -19,7 +19,7 @@ There are many great names in tennis.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ### Tables
 
-| Country |  Reason  | Data |
+| Country |  Reason  | Days |
 |:---------:|:----------:|:------:|
 | France  | The country’s beauty make it a popular destination| 1 week |
 | Spain   | A cultural patchwork that continues to shape the modern nation’s | 10-13 days |
