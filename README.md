@@ -33,7 +33,7 @@ There are many great names in tennis.
 # Code Fencing
 >SVG PATTERNS
 [Link to stack overflow](https://stackoverflow.com/questions/40218109/i-need-help-in-developing-a-circular-pattern)
-
+```
 <svg width="100%" height="100%">
   
   <!-- Create mask that we'll use to define a slight gradient -->
@@ -58,5 +58,5 @@ There are many great names in tennis.
   <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-circles)"></rect>
   
 </svg><br>
-
+```
 [SVG Patterns Link](https://css-tricks.com/snippets/svg/svg-patterns/)
