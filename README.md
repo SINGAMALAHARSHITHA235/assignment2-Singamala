@@ -56,4 +56,4 @@ https://github.com/SINGAMALAHARSHITHA235/assignment2-Singamala/blob/main/AboutMe
   <!-- The canvas with our applied pattern -->
   <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-circles)"></rect>
   
-</svg>
+</svg><br>
