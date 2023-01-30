@@ -15,7 +15,7 @@ There are many great names in tennis.
 + Cilic Marin
 
 
-https://github.com/SINGAMALAHARSHITHA235/assignment2-Singamala/blob/main/AboutMe.md
+![Link to AboutMe](https://github.com/SINGAMALAHARSHITHA235/assignment2-Singamala/blob/main/AboutMe.md)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ### Tables
 
@@ -31,7 +31,8 @@ https://github.com/SINGAMALAHARSHITHA235/assignment2-Singamala/blob/main/AboutMe
 >Ned, I would love to stand here and talk with you—but I’m not going to.(*Phil Connors (Bill Murray)*)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Code Fencing
->SVG PATTERNS https://stackoverflow.com/questions/40218109/i-need-help-in-developing-a-circular-pattern
+>SVG PATTERNS
+[Link to stack overflow](https://stackoverflow.com/questions/40218109/i-need-help-in-developing-a-circular-pattern)
 
 <svg width="100%" height="100%">
   
@@ -57,3 +58,5 @@ https://github.com/SINGAMALAHARSHITHA235/assignment2-Singamala/blob/main/AboutMe
   <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-circles)"></rect>
   
 </svg><br>
+
+[SVG Patterns Link](https://css-tricks.com/snippets/svg/svg-patterns/)
